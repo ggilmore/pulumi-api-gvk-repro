@@ -1,0 +1,16 @@
+{
+  "name": "pulumi-api-gvk-repro",
+  "scripts": {},
+  "devDependencies": {
+    "@sourcegraph/prettierrc": "2.2.0",
+    "@types/node": "latest",
+    "prettier": "1.17.0",
+    "tslint": "5.16.0",
+    "tslint-config-prettier": "1.18.0"
+  },
+  "dependencies": {
+    "@pulumi/gcp": "0.18.4",
+    "@pulumi/kubernetes": "0.23.0",
+    "@pulumi/pulumi": "0.17.8"
+  }
+}

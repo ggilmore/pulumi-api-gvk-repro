@@ -1,0 +1,3 @@
+name: pulumi-api-gvk-repro
+runtime: nodejs
+description: A minimal repro for the pulumi-gvk-issues that I've been seeing.
